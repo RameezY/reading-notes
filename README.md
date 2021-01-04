@@ -18,3 +18,4 @@ Having a growth mindset is to allow yourself to progress further and never hit a
 
 ### Table of Contents
 [Markdown Reading](markdown.md)
+[Coders Computer](coders_computer.md)
