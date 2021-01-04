@@ -12,15 +12,15 @@ or
 ```
 * Creating an unordered list:
 ```
-  - Item
-  - Item 2
-  - Item 3
+- Item
+- Item 2
+- Item 3
 
 or
 
-  * Item 1
-  * Item 2
-  * Item 3
+* Item 1
+* Item 2
+* Item 3
 ```
 * Adding a link:
 ```
