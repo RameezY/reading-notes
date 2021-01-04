@@ -31,6 +31,14 @@ or
 Row 1 | Column 2
 Row 2 | Column 2
 ```
+* How to bold or italicize your text:
+```
+*This will italicize your text*
+_This will italicize your text_
+
+**This will bold your text**
+__This will bold your text__
+```
 
 ## Notes
 * Having the file extension as ".md" will make it into a Markdown file.
