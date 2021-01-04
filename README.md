@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/RameezY/reading-notes/main/photo-1542396601-dca920ea2807.jpg)
+![](photo-1542396601-dca920ea2807.jpg)
 --------
 # Author
 Rameez Yousefi
@@ -15,3 +15,6 @@ Having a growth mindset is to allow yourself to progress further and never hit a
 * *Don't give up easily*
 * *Embrace any challenges*
 * *Learn from criticism*
+
+### Table of Contents
+[Markdown Reading](markdown.md)
