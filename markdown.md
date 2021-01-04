@@ -22,7 +22,15 @@ or
 * Item 2
 * Item 3
 ```
-
+* Adding a link:
+```
+[Name of the site or the actual URL itself](URL goes here)
+```
+* Creating a table:
+```
+Row 1 | Column 2
+Row 2 | Column 2
+```
 
 ## Notes
 * Having the file extension as ".md" will make it into a Markdown file.
