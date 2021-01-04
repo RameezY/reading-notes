@@ -1,4 +1,4 @@
-![](https://github.com/RameezY/reading-notes/blob/main/photo-1542396601-dca920ea2807.jpg)
+![](https://raw.githubusercontent.com/RameezY/reading-notes/main/photo-1542396601-dca920ea2807.jpg)
 ---
 # Author
 Rameez Yousefi
