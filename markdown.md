@@ -3,10 +3,12 @@
 ## What is Markdown?
 Markdown is a lightweight syntax for styling content.
 
-## Useful Markdown syntaxes
+## Some useful Markdown syntaxes
 * Adding images
 ```
 ![](Url to the image)
+or
+![Add an Alt Text if needed](Url to the image)
 ```
 
 
