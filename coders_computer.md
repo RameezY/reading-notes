@@ -23,3 +23,10 @@ Here are some third-party options available, some are free and some are not:
 * Atom
 * Brackets
 * Sublime Text
+
+## Terminals
+They serve as a text based interface to a system.  You can enter commands for it to carry out and display it's feedback all via a text based interface.  Commands are also separated out by spaces.
+
+Here are some commands and it's functions:
+
+**echo**: Will let you know which shell you are using to display a system variable stating your current shell.  For example you may use **echo $SHELL**.  
