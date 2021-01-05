@@ -44,5 +44,5 @@ Here are some commands and it's functions:
 Using these commands, one must also be mindful that Linux is very case sensitive unlike other systems.  Spacing is another important aspect when specifying files or directories.  For example if a file contains a space in it's name, one must specify it between single or double quotes.
 
 ### Table of Contents
-* [Read Me](README.md)
+* [Reading Notes](README.md)
 * [Markdown Reading](markdown.md)
