@@ -30,3 +30,9 @@ They serve as a text based interface to a system.  You can enter commands for it
 Here are some commands and it's functions:
 
 **echo**: Will let you know which shell you are using to display a system variable stating your current shell.  For example you may use **echo $SHELL**.  
+
+**pwd**: Print Working Directory tells you what your current present working directory is.
+
+**ls**: Lists your documents and files in your current directory.
+
+**cd**: Change Directory lets you move around in your system.
