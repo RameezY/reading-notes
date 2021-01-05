@@ -44,3 +44,7 @@ __This will bold your text__
 
 ## Notes
 * Having the file extension as ".md" will make it into a Markdown file.
+
+### Table of Contents
+* [Read Me](README.md)
+* [Coders Computer](coders_computer.md)
