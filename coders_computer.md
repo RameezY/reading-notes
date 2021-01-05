@@ -44,5 +44,11 @@ Here are some commands and it's functions:
 Using these commands, one must also be mindful that Linux is very case sensitive unlike other systems.  Spacing is another important aspect when specifying files or directories.  For example if a file contains a space in it's name, one must specify it between single or double quotes.
 
 ### Table of Contents
-* [Reading Notes](README.md)
+* [Reading Notes Home](README.md)
+* [About Me](about_me.md)
+* [Description](description.md)
+* [Growth Mindset](growth_mindset.md)
 * [Markdown Reading](markdown.md)
+* [Coders Computer](coders_computer.md)
+* [Git Notes](git_notes.md)
+* [What I Have Learned So Far](learned_so_far.md)
