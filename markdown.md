@@ -10,8 +10,9 @@ Markdown is a lightweight syntax for styling content.
 or
 ![Add an Alt Text if needed](Url to the image)
 ```
-```
+
 * Creating an unordered list:
+```
 - Item
 - Item 2
 - Item 3
@@ -25,11 +26,13 @@ or
 ```
 [Name of the site or the actual URL itself](URL goes here)
 ```
+
 * Creating a table:
 ```
 Row 1 | Column 2
 Row 2 | Column 2
 ```
+
 * How to bold or italicize your text:
 ```
 *This will italicize your text*
