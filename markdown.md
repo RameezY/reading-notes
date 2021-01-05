@@ -10,6 +10,7 @@ Markdown is a lightweight syntax for styling content.
 or
 ![Add an Alt Text if needed](Url to the image)
 ```
+```
 * Creating an unordered list:
 - Item
 - Item 2
