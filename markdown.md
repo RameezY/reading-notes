@@ -11,10 +11,10 @@ or
 ![Add an Alt Text if needed](Url to the image)
 ```
 * Creating an unordered list:
-
 - Item
 - Item 2
 - Item 3
+```
 or
 * Item 1
 * Item 2
