@@ -8,6 +8,7 @@ It's a lightweight syntax to stylize your content.
 There are different code editors with different features that may serve different purposes.  A terminal is 
 
 ## Git
+GIT is a version control system that allows you to have mirrored repositories.
 
 ### Table of Contents
 * [Reading Notes Home](README.md)
