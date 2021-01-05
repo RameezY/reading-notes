@@ -19,9 +19,14 @@ To track and stage a single file:
 git add filename
 ```
 
-To track and stage all files:
+To track and stage all files excluding files beginning with a period:
 ```
 git add *
+```
+
+To track and stage all files in the directory:
+```
+git add .
 ```
 
 Commit a single file with a message regarding changes made:
