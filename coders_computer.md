@@ -35,4 +35,10 @@ Here are some commands and it's functions:
 
 **ls**: Lists your documents and files in your current directory.
 
+**ls -a**: Lists your documents and files including hidden files unlike the command above.
+
 **cd**: Change Directory lets you move around in your system.
+
+**file**: Lets you obtain information about the file or directory type.
+
+Using these commands, one must also be mindful that Linux is very case sensitive unlike other systems.  Spacing is another important aspect when specifying files or directories.  For example if a file contains a space in it's name, one must specify it between single or double quotes.
