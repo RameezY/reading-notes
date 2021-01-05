@@ -12,3 +12,14 @@ Some important features of a text editor for coding consists of the following:
 
 Some of these features aim to help certain use-cases.  For example, some text editors will create a project structure and necessary files needed, which saves you the time and hassle of creating them.  Some may even display possible suggestions based on the code you're typing, and you could click on it to complete it rather than typing the entire string of code yourself.
 
+Then there's IDEs which serves as an all-in-one sort of package.  It consists of a text editor, file manager, compiler, and a debugger.  That may be needed for certain programming languages.
+
+## Third-Party Options
+Here are some third-party options available, some are free and some are not:
+* Notepad++
+* TextWrangler (retired)
+* BB  Edit
+* Visual Studio Code
+* Atom
+* Brackets
+* Sublime Text
