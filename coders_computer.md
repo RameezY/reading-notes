@@ -50,4 +50,5 @@ Using these commands, one must also be mindful that Linux is very case sensitive
 * [Coders Computer](coders_computer.md)
 * [Git Notes](git_notes.md)
 * [HTML Notes](html_notes.md)
+* [CSS Notes](cssnotes.md)
 * [What I Have Learned So Far](learned_so_far.md)
