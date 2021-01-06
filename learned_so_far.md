@@ -16,4 +16,5 @@ GIT is a version control system that allows you to have mirrored repositories.
 * [Markdown Reading](markdown.md)
 * [Coders Computer](coders_computer.md)
 * [Git Notes](git_notes.md)
+* [HTML Notes](html_notes.md)
 * [What I Have Learned So Far](learned_so_far.md)

@@ -45,10 +45,9 @@ Using these commands, one must also be mindful that Linux is very case sensitive
 
 ### Table of Contents
 * [Reading Notes Home](README.md)
-* [About Me](about_me.md)
-* [Description](description.md)
 * [Growth Mindset](growth_mindset.md)
 * [Markdown Reading](markdown.md)
 * [Coders Computer](coders_computer.md)
 * [Git Notes](git_notes.md)
+* [HTML Notes](html_notes.md)
 * [What I Have Learned So Far](learned_so_far.md)

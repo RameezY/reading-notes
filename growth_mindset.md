@@ -11,3 +11,12 @@ Having a growth mindset is to allow yourself to progress further and never hit a
 * [Coders Computer](coders_computer.md)
 * [Git Notes](git_notes.md)
 * [What I Have Learned So Far](learned_so_far.md)
+
+### Table of Contents
+* [Reading Notes Home](README.md)
+* [Growth Mindset](growth_mindset.md)
+* [Markdown Reading](markdown.md)
+* [Coders Computer](coders_computer.md)
+* [Git Notes](git_notes.md)
+* [HTML Notes](html_notes.md)
+* [What I Have Learned So Far](learned_so_far.md)
