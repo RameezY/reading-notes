@@ -51,4 +51,6 @@ Using these commands, one must also be mindful that Linux is very case sensitive
 * [Git Notes](git_notes.md)
 * [HTML Notes](html_notes.md)
 * [CSS Notes](cssnotes.md)
+* [JavaScript Notes](javascript_notes.md)
+* [Computer Logic](computer_logic.md)
 * [What I Have Learned So Far](learned_so_far.md)

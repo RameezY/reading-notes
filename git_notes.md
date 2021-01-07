@@ -52,4 +52,6 @@ git push origin main
 * [Git Notes](git_notes.md)
 * [HTML Notes](html_notes.md)
 * [CSS Notes](cssnotes.md)
+* [JavaScript Notes](javascript_notes.md)
+* [Computer Logic](computer_logic.md)
 * [What I Have Learned So Far](learned_so_far.md)
