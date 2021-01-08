@@ -55,6 +55,6 @@ __This will bold your text__
 * [CSS Notes](cssnotes.md)
 * [JavaScript Notes](javascript_notes.md)
 * [Computer Logic](computer_logic.md)
-* [Programming with Javascript](programingjavascript.md)
+* [Programming with Javascript](programmingjavascript.md)
 * [Operators and Loops](operatorsandloops.md)
 * [What I Have Learned So Far](learned_so_far.md)

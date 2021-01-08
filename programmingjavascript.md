@@ -44,12 +44,6 @@
 --
 ```
 
-## Loops
-A loop is used to check a condition and then loops that process until the condition is false.
-
-* For loop is used for running a code for a specific number of times.
-* While loop is used if you're unsure of how many times the code needs to run.
-
 ## Functions
 You can use a set of statements and group them together to be used in a shorter way in your HTML file.
 
@@ -63,6 +57,6 @@ You can use a set of statements and group them together to be used in a shorter 
 * [CSS Notes](cssnotes.md)
 * [JavaScript Notes](javascript_notes.md)
 * [Computer Logic](computer_logic.md)
-* [Programming with Javascript](programingjavascript.md)
+* [Programming with Javascript](programmingjavascript.md)
 * [Operators and Loops](operatorsandloops.md)
 * [What I Have Learned So Far](learned_so_far.md)
