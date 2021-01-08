@@ -1,5 +1,57 @@
 # Programing with Javascript
-programing
+
+## Comparison Operators
+* Strict not equal to
+```javascript
+!== 
+```
+* Is not equal to
+```javascript
+!=
+```
+* Strict equal to
+```javascript
+===
+```
+* Is equal to
+```javascript
+==
+```
+
+## Arithemetic Operators
+* Subtraction
+```javascript
+-
+```
+* Addition
+```javascript
++
+```
+* Division
+```javascript
+/
+```
+* Multiplication
+```javascript
+*
+```
+* Increment
+```javascript
+++
+```
+* Decrement
+```javascript
+--
+```
+
+## Loops
+A loop is used to check a condition and then loops that process until the condition is false.
+
+* For loop is used for running a code for a specific number of times.
+* While loop is used if you're unsure of how many times the code needs to run.
+
+## Functions
+You can use a set of statements and group them together to be used in a shorter way in your HTML file.
 
 ### Table of Contents
 * [Reading Notes Home](README.md)
