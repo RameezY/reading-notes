@@ -1,4 +1,5 @@
 # Programing with Javascript
+programing
 
 ### Table of Contents
 * [Reading Notes Home](README.md)
